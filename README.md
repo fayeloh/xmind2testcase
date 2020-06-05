@@ -29,13 +29,14 @@ step1：在cmd中运行xmind2testcase webtool 8000
 step2：在网页上访问127.0.0.1:8000即可转化，界面如下
 
 
-
+![image](https://github.com/fayeloh/xmind2testcase/blob/master/img/1.png)
 
 
 step3：缺陷管理工具如果是禅道的话，选择get zentao csv进行导出即可
 
 
 
+![image](https://github.com/fayeloh/xmind2testcase/blob/master/img/2.png)
 
 
 乱码
@@ -43,9 +44,11 @@ step3：缺陷管理工具如果是禅道的话，选择get zentao csv进行导�
 
 初次使用可能会出现乱码问题，解决方法：通过安装记录找到安装文件的位置
 
+![image](https://github.com/fayeloh/xmind2testcase/blob/master/img/3.png)
 找到xmind2testcase文件夹下面的zentao.py，将编码utf-8修改成gbk
 
 
+![image](https://github.com/fayeloh/xmind2testcase/blob/master/img/4.png)
 
 
 
@@ -61,8 +64,10 @@ step3：缺陷管理工具如果是禅道的话，选择get zentao csv进行导�
 增加相关需求字段
 
 
+![image](https://github.com/fayeloh/xmind2testcase/blob/master/img/5.png)
 
 
+![image](https://github.com/fayeloh/xmind2testcase/blob/master/img/6.png)
 
 
 
@@ -70,11 +75,13 @@ step3：缺陷管理工具如果是禅道的话，选择get zentao csv进行导�
 
 
 
+![image](https://github.com/fayeloh/xmind2testcase/blob/master/img/7.png)
 
 
 修改用例类型
 
 
+![image](https://github.com/fayeloh/xmind2testcase/blob/master/img/8.png)
 
 
 
@@ -87,4 +94,5 @@ xmind的转换模板如下
 前置条件：在节点右键->插入->备注中生成
 
 
+![image](https://github.com/fayeloh/xmind2testcase/blob/master/img/9.png)
 
